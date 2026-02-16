@@ -1,0 +1,16 @@
+review_id,platform,rating,review_text,voice_used,region,date
+1,Play Store,2,"It misunderstands me half the time and struggles with my accent.",Yes,India,2026-02-01
+2,App Store,5,"I use it while driving and it’s super helpful!",Yes,USA,2026-02-02
+3,Play Store,3,"Voice feature is good but response time is slow.",Yes,UK,2026-02-03
+4,App Store,4,"Feels futuristic. Love talking instead of typing.",Yes,Canada,2026-02-04
+5,Play Store,1,"Doesn’t catch my Indian accent properly.",Yes,India,2026-02-05
+6,App Store,5,"Amazing for multitasking while cooking.",Yes,Australia,2026-02-05
+7,Play Store,2,"Voice sounds robotic and unnatural.",Yes,India,2026-02-06
+8,App Store,4,"Great idea but needs better noise handling.",Yes,USA,2026-02-07
+9,Play Store,5,"Best AI assistant I’ve used so far.",Yes,Germany,2026-02-08
+10,App Store,3,"Sometimes stops listening mid conversation.",Yes,USA,2026-02-09
+11,Play Store,4,"Very useful for practicing English speaking.",Yes,India,2026-02-10
+12,App Store,2,"Laggy and inaccurate in crowded places.",Yes,Singapore,2026-02-11
+13,Play Store,5,"Makes studying easier. Love the voice feature!",Yes,USA,2026-02-12
+14,App Store,3,"Conversation flow breaks sometimes.",Yes,UK,2026-02-13
+15,Play Store,4,"Good but could feel more human-like.",Yes,India,2026-02-14
