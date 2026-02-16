@@ -57,3 +57,10 @@ Real Quotes:
 
 - +20% first-time voice trial rate
 - +15% weekly repeat voice sessions
+## Tools Used
+- App Store Reviews
+- Play Store Reviews
+- Manual Theme Clustering
+
+## Author
+Kirti Sharma
